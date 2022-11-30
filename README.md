@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Onyekaoku
-- 👀 I’m interested in HTML, CSS, JavaScript, and Python 
-- 🌱 I’m currently learning all of these languages
+- 👀 I use HTML, CSS, JavaScript, and Python to create my projects
+-
 
 <!---
 Onyekaoku/Onyekaoku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
