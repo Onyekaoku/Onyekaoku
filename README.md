@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Onyekaoku
+- 👋 Greetings! My name is Onyeka Okwu-uwa
 - 👀 I use HTML, CSS, JavaScript, and Python to create my projects
 -
 
